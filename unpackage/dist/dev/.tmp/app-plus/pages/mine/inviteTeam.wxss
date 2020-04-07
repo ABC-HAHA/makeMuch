@@ -1,0 +1,36 @@
+.invite_page.data-v-5a5f6bb5 {
+  background: #ebddf8;
+  font-size: 0;
+  text-align: center;
+}
+.invite_page .invite_one.data-v-5a5f6bb5 {
+  width: 750rpx;
+  height: 629rpx;
+}
+.invite_page .invite_two.data-v-5a5f6bb5 {
+  width: 750rpx;
+  height: 628rpx;
+}
+.invite_page .invite_three.data-v-5a5f6bb5 {
+  width: 750rpx;
+  height: 629rpx;
+}
+.invite_page .invite_four.data-v-5a5f6bb5 {
+  width: 750rpx;
+  height: 180rpx;
+  padding-bottom: 160rpx;
+}
+.invite_page .invite_butt.data-v-5a5f6bb5 {
+  position: fixed;
+  width: 750rpx;
+  text-align: center;
+  bottom: 0rpx;
+}
+.invite_page .invite_butt > image.data-v-5a5f6bb5 {
+  width: 649rpx;
+  height: 110rpx;
+}
+.invite_page .shareGroup.data-v-5a5f6bb5 {
+  margin-top: 40rpx;
+}
+

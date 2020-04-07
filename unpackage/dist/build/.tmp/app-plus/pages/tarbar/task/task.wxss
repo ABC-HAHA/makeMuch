@@ -1,0 +1,23 @@
+.taskbox.data-v-ae9effe8 {
+  margin: 25rpx;
+  background: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.taskbox image.data-v-ae9effe8 {
+  width: 120rpx;
+  height: 120rpx;
+  margin: 35rpx 40rpx;
+}
+.taskbox .task_list.data-v-ae9effe8 {
+  margin: 58rpx 0rpx 20rpx;
+}
+.taskbox .task_list .task_title.data-v-ae9effe8 {
+  font-size: 30rpx;
+  color: #25a39c;
+}
+.taskbox .task_list .task_content.data-v-ae9effe8 {
+  font-size: 24rpx;
+}
+

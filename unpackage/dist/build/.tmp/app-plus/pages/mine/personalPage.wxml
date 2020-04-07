@@ -1,0 +1,1 @@
+<view class="personalPage data-v-40668548"><view class="base_class data-v-40668548">头像<image class="head_image data-v-40668548" src="{{head_image}}" mode></image></view><view class="base_class data-v-40668548">昵称<text class="data-v-40668548">{{nick_name}}</text></view><view class="base_class data-v-40668548">邀请码<text class="data-v-40668548">{{invit_code}}</text></view></view>
